@@ -1,0 +1,21 @@
+//LEVEL 3
+
+var $=getColor();
+
+down();
+down();
+$=getColor();
+getColor();
+down();
+down();
+down();
+
+right();
+right();
+
+setColor($);
+
+right();
+right();
+
+up();
