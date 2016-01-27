@@ -1,0 +1,43 @@
+//LEVEL 5
+
+var $=getColor();
+var G=getColor();
+
+right();
+right();
+
+if (getColor() == "blue") {
+  down();
+} else {
+  up();
+}
+
+right();
+right();
+
+if (getColor() == "blue") {
+  down();
+} else {
+  up();
+}
+
+right();
+right();
+
+if (getColor() == "blue") {
+  down();
+} else {
+  up();
+}
+
+right();
+right();
+
+if (getColor() == "blue") {
+  down();
+} else {
+  right();
+}
+right();
+
+//HELL YEAH!
