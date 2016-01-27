@@ -1,0 +1,28 @@
+//LEVEL 6
+
+var $=getColor();
+var G=getColor();
+
+right();
+
+$=getColor();
+getColor();
+
+if (getColor() == "red") {
+  up();
+  up();
+  up();
+} else {
+  down();
+  down();
+  down();
+}
+
+
+
+if (getColor() == "red") {
+  left();
+  down();
+} else {
+  right();
+}
