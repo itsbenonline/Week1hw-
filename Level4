@@ -1,0 +1,37 @@
+//LEVEL 4
+
+var $=getColor();
+var G=getColor();
+
+down();
+down();
+down();
+down();
+
+right();
+
+$=getColor();
+getColor();
+
+down();
+
+setColor($);
+
+right();
+right();
+
+setColor($);
+
+right();
+
+up();
+
+G=getColor();
+getColor();
+
+down();
+
+setColor(G);
+
+right();
+right();
