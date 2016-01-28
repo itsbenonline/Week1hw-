@@ -1,0 +1,51 @@
+
+
+var red=getColor();
+var G=getColor();
+
+function slut(total) {
+  var count = 0;
+  while (count < total) {
+    down();
+    count = count + 1;
+  }
+}
+
+function letsflytotherightguysherewegoandonourwaytothegreendotayayayayayayaa(total) {
+  var count = 0;
+  while (count < total) {
+    right();
+    count = count +1;
+  }
+}
+    
+slut(9);
+
+letsflytotherightguysherewegoandonourwaytothegreendotayayayayayayaa(2);
+
+function ho(total) {
+  var count = 0;
+  while (count < total) {
+    up();
+    count = count + 1;
+  }
+}
+
+ho(9);
+
+letsflytotherightguysherewegoandonourwaytothegreendotayayayayayayaa(2);
+
+slut(9);
+
+letsflytotherightguysherewegoandonourwaytothegreendotayayayayayayaa(2);
+
+ho(9);
+
+letsflytotherightguysherewegoandonourwaytothegreendotayayayayayayaa(2);
+
+slut(8);
+
+
+letsflytotherightguysherewegoandonourwaytothegreendotayayayayayayaa(2);
+
+//Dirtydirtycode
