@@ -1,7 +1,6 @@
 // LEVEL 7
 
 var red=getColor();
-var G=getColor();
 
 function RIGZ() {
 
